@@ -1,0 +1,13 @@
+# Site settings
+title: Gendoria
+email: gendoria@gendoria.pl
+description: Your PHP packages
+about: > #
+ Gendoria aims to deliver high quality PHP packages,
+ solving your problems in most effective way.
+baseurl: "" 
+url: "http://github.gendoria.pl"
+github_username:  Gendoria
+
+# Build settings
+markdown: redcarpet
