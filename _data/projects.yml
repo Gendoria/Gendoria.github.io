@@ -1,0 +1,3 @@
+- name: Param converter bundle
+  url: http://github.gendoria.pl/param-converter-bundle/
+  description: This is a simple parameter converter bundle for Symfony2.
