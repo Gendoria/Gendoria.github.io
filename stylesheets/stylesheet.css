@@ -483,41 +483,6 @@ header h2 {
   margin: 0 auto;
 }
 
-header .inner nav {
-    color: #fff;
-}
-
-header .inner nav ul {
-    list-style-type: none;
-    margin: 0;
-    margin-top: 20px;
-    font-weight: bold;
-}
-
-header .inner nav ul li {
-    display: inline-block;
-    font-size: 150%;
-    margin-right: 1em;
-}
-
-header .inner nav ul li:last-child {
-    margin-right: 0;
-}
-
-header .inner nav ul li a {
-    color: #eee;
-    display: inline-block;
-    border-bottom: dashed #fff 1px;
-}
-
-header .inner nav ul li a.active {
-    color: #fff;
-}
-
-header .inner nav ul li a:hover {
-    border-bottom-color: #aaf;
-}
-
 #content-wrapper {
   padding-top: 30px;
   border-top: solid 1px #fff;

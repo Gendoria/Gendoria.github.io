@@ -11,3 +11,6 @@ github_username:  Gendoria
 
 # Build settings
 markdown: redcarpet
+
+sass:
+  style: compressed
