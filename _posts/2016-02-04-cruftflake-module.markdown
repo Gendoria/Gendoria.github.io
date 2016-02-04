@@ -14,4 +14,4 @@ What, again, is a CruftFlake module? It provides developers with unique ID gener
 If you try to build a distributed application and do not want to be bound to database generated IDs 
 (these won't scale best, trust us), this module could be just for you.
 
-We encourage you to go to [bundle page](http://github.gendoria.pl/cruftflake/) and test!
+We encourage you to go to [bundle page](http://github.gendoria.pl/cruftflake/) and test! Wy hope, you will enjoy the ride.
