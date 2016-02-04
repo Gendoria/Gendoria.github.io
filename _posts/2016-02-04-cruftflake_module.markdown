@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "New module - CruftFlake"
-date:   2016-02-04 17:30:00
+date:   2016-02-04 09:00:00
 categories: php,packagist
 ---
 
