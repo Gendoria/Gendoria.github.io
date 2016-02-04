@@ -1,3 +1,6 @@
 - name: Param converter bundle
   url: http://github.gendoria.pl/param-converter-bundle/
   description: This is a simple parameter converter bundle for Symfony2.
+- name: CruftFlake
+  url: http://github.gendoria.pl/cruftflake/
+  description: Unique ID generator for the cloud.
